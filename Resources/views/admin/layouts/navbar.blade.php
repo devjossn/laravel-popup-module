@@ -1,0 +1,12 @@
+<link rel="stylesheet" href="{{ mix('admin/css/navbar.css') }}">
+
+<nav class="main-header navbar navbar-expand navbar-white navbar-light">
+    <!-- Left navbar links -->
+    <ul class="navbar-nav">
+        <li class="nav-item">
+            <a class="nav-link" data-widget="pushmenu" href="#"><i class="fas fa-bars"></i></a>
+        </li>
+    </ul>
+
+    <h3 class="text-themecolor">PopupEdit</h3>
+</nav>

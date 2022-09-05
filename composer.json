@@ -1,0 +1,24 @@
+{
+    "name": "nwidart/popup",
+    "description": "",
+    "type": "laravel-module",
+    "authors": [
+        {
+            "name": "Kevin Cooper",
+            "email": "peacedev929@hotmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Popup\\": ""
+        }
+    }
+}
